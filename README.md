@@ -1,2 +1,2 @@
 # summer_Assignment_25112CN174
-This is my Summer Assignment done by Kshitij Pathak
+This is my Summer Assignment done by Kshitij Pathak in CSE (AI)
